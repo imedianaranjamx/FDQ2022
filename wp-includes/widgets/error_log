@@ -1,0 +1,4 @@
+[30-Nov-2022 23:26:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home1/festiv22/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/festiv22/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17

@@ -1,0 +1,4 @@
+[01-Oct-2022 01:27:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/festiv22/public_html/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/festiv22/public_html/wp-includes/functions.php on line 8

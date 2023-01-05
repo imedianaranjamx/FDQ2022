@@ -1,0 +1,8 @@
+[30-Nov-2022 23:23:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home1/festiv22/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/festiv22/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[30-Nov-2022 23:26:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home1/festiv22/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/festiv22/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
